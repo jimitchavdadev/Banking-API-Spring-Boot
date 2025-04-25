@@ -275,11 +275,3 @@ mvn spring-boot:run
 ## License
 This project is licensed under the MIT License.
 
----
-
-### Notes
-- Replace repository URL with your actual GitHub URL.
-- Ensure `schema.sql` includes all schema, views, procedures, and sample data.
-- Security: Consider Spring Security for production.
-- CI/CD: Add GitHub Actions for automation.
-
